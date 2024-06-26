@@ -1,5 +1,7 @@
 # TAX1BP1-proximitome analysis scripts
 
+[![DOI](https://zenodo.org/badge/820577875.svg)](https://zenodo.org/doi/10.5281/zenodo.12552576)
+
 This repository contains the data analysis script for the manuscript "p97/VCP is required for piecemeal autophagy of aggresomes"
 
 ## Systems requirements
